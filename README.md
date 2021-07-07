@@ -1,16 +1,4 @@
-# flutterapp
+# Plant Disease Identification (Mobile Application)
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Plant Disease Identification is mobile application which is based on Flutter and Keras(trained model). It detects disease of plant
+from its Leaves. This application is for those who are Ecologist,Environmental Engineers or Even for farmers.
